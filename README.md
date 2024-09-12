@@ -62,8 +62,10 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 
 ## Demo en Github Pages y Netlify
 
-[Github_Pages](https://manuelherreram.github.io/react-gif-expert/)
-[Netlify](https://gift-expert-mh.netlify.app/)
+Puedes ver la aplicación en funcionamiento en los siguientes enlaces:
+
+- [Demo en Github Pages](https://manuelherreram.github.io/react-gif-expert/)
+- [Demo en Netlify](https://gift-expert-mh.netlify.app/)
 
 ## Licencia
 
